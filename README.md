@@ -22,11 +22,11 @@ La aplicación permite:
 
 ## 📸 Capturas de la app
 
-![Vista principal](Imagenes\imagen1.png)
-![Carga](Imagenes\imagen2.png)
-![Análisis de variables Básico](Imagenes\imagen3.png)
-![Análisis de variables Avanzado](Imagenes\imagen4.png)
-![Conclusiones](Imagenes\imagen5.png)
+![Vista principal](Imagenes/imagen1.png)
+![Carga](Imagenes/imagen2.png)
+![Análisis de variables Básico](Imagenes/imagen3.png)
+![Análisis de variables Avanzado](Imagenes/imagen4.png)
+![Conclusiones](Imagenes/imagen5.png)
 
 ---
 
