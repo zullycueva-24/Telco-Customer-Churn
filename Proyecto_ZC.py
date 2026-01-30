@@ -1,4 +1,5 @@
 import pandas as pd
+import matplotlib
 import matplotlib.pyplot as plt
 import streamlit as st
 import io
@@ -425,4 +426,5 @@ elif modulo == "Conclusiones":
         sin necesidad de construir modelos predictivos en esta etapa.
         </p>
         </div>
+
         """, unsafe_allow_html=True)
