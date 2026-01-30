@@ -23,7 +23,7 @@ La aplicación permite:
 ## 📸 Capturas de la app
 
 ```md
-![Vista principal](imagen1.png)
+![Vista principal](Imágenes\imagen1.png)
 ![Carga](imagen2.png)
 
 
