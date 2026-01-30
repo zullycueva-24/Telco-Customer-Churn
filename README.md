@@ -77,7 +77,7 @@ https://docs.streamlit.io
 ## ✍️ Autor
 
 Zully Cueva
-Especialización en Análisis de Datos
+Especialización en Python for Analytics
 Año: 2026
 
 
