@@ -21,4 +21,9 @@ La aplicación permite:
 ---
 
 ## 📸 Capturas de la app
-Ejemplo:
+
+```md
+![Vista principal](imagen1.png)
+![Carga](imagen2.png)
+
+
