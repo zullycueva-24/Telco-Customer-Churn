@@ -22,7 +22,6 @@ La aplicación permite:
 
 ## 📸 Capturas de la app
 
-```md
 ![Vista principal](Imágenes\imagen1.png)
 ![Carga](Imágenes\imagen2.png)
 ![Análisis de variables Básico](Imágenes\imagen3.png)
@@ -42,6 +41,7 @@ Programación Orientada a Objetos (POO)
 ---
 
 ##📌 Estructura del proyecto
+
 telco-customer-churn/
 ├── Proyecto_ZC.py
 ├── requirements.txt
@@ -64,7 +64,7 @@ La retención debe priorizarse por su impacto financiero.
 
 ---
 
-##🔗 Links relevantes
+## 🔗 Links relevantes
 
 🌐 App en Streamlit Cloud:
 https://telco-customer-churn-zullycueva.streamlit.app
@@ -74,7 +74,7 @@ https://docs.streamlit.io
 
 ---
 
-##✍️ Autor
+## ✍️ Autor
 
 Zully Cueva
 Especialización en Análisis de Datos
