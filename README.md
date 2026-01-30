@@ -24,6 +24,6 @@ La aplicación permite:
 
 ```md
 ![Vista principal](Imágenes\imagen1.png)
-![Carga](imagen2.png)
+![Carga](Imágenes\imagen1.png)
 
 
