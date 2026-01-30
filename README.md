@@ -24,6 +24,51 @@ La aplicación permite:
 
 ```md
 ![Vista principal](Imágenes\imagen1.png)
-![Carga](Imágenes\imagen1.png)
+![Carga](Imágenes\imagen2.png)
+![Análisis de variables Básico](Imágenes\imagen3.png)
+![Análisis de variables Avanzado](Imágenes\imagen4.png)
+![Conclusiones](Imágenes\imagen5.png)
+
+🧩 Tecnologías utilizadas
+
+Python
+Pandas
+Matplotlib
+Streamlit
+
+Programación Orientada a Objetos (POO)
+
+📌 Estructura del proyecto
+telco-customer-churn/
+├── Proyecto_ZC.py
+├── requirements.txt
+├── README.md
+└── images/
+
+🔍 Principales hallazgos
+
+Los clientes con contratos mensuales presentan mayor churn.
+
+Los clientes nuevos tienen mayor probabilidad de fuga.
+
+Cargos mensuales elevados incrementan el riesgo de churn.
+
+El EDA permite identificar acciones de retención sin modelos predictivos.
+
+La retención debe priorizarse por su impacto financiero.
+
+🔗 Links relevantes
+
+🌐 App en Streamlit Cloud:
+https://telco-customer-churn-zullycueva.streamlit.app
+
+📘 Documentación Streamlit:
+https://docs.streamlit.io
+
+✍️ Autor
+
+Zully Cueva
+Especialización en Análisis de Datos
+Año: 2026
 
 
